@@ -2,5 +2,5 @@
 def display_board
   cell = "   "
  puts "#{cell}|#{cell}|#{cell}"
-
+ puts -----------
 end
